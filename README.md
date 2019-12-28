@@ -7,6 +7,7 @@
 * [LinkedIn Lite: A Lightweight Mobile Web Experience](https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience)
 * [CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance](https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
 * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+* [Streaming server rendering and Progressive Rehydration](https://developers.google.com/web/updates/2019/02/rendering-on-the-web#progressive-rehydration)
 
 ### Videos
 
