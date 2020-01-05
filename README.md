@@ -5,9 +5,10 @@
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
 * [LinkedIn Lite: A Lightweight Mobile Web Experience](https://engineering.linkedin.com/blog/2018/03/linkedin-lite--a-lightweight-mobile-web-experience)
+* [Streaming server rendering and Progressive Rehydration](https://developers.google.com/web/updates/2019/02/rendering-on-the-web#progressive-rehydration)
+* [Enable Brotli Compression in Webpack with Fallback to Gzip](https://medium.com/groww-engineering/enable-brotli-compression-in-webpack-with-fallback-to-gzip-397a57cf9fc6)
 * [CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance](https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
 * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
-* [Streaming server rendering and Progressive Rehydration](https://developers.google.com/web/updates/2019/02/rendering-on-the-web#progressive-rehydration)
 
 ### Videos
 
