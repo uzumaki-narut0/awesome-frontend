@@ -30,3 +30,5 @@
 * [Efficiently load third-party JavaScript](https://web.dev/efficiently-load-third-party-javascript/)
 * [Making wheel scrolling fast by default](https://developers.google.com/web/updates/2019/02/scrolling-intervention)
 * [Javascript: The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
+* [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+* [Web Vitals](https://web.dev/vitals/)
