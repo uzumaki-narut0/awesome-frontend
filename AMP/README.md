@@ -1,1 +1,5 @@
+* [AMP + Web Vitals – a better web, together](https://blog.amp.dev/2020/05/06/amp-web-vitals-a-better-web-together/)
 * [AMP Server-side rendering](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/server-side-rendering/?format=websites)
+* [Google AMP Cache, Optimizations for Slow Networks, and the Need for Speed](https://developers.googleblog.com/2017/01/google-amp-cache-amp-lite-and-need-for.html)
+* [Optimize your hosted AMP pages](https://amp.dev/documentation/guides-and-tutorials/optimize-and-measure/optimize_amp/)
+* [AMP cache modifications best practices](https://github.com/ampproject/amphtml/blob/master/spec/amp-cache-modifications.md)
