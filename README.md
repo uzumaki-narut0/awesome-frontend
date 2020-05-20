@@ -18,6 +18,7 @@
 
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos)
 * [Selective Hydration and Percieved performance (React Conf 2019 Day 1)](https://www.youtube.com/watch?v=UxoX2faIgDQ&feature=youtu.be&t=3535)
+* [Serve modern code to modern browsers for faster page loads](https://web.dev/codelab-serve-modern-code/)
 * [Rendering on the Web: Performance Implications of Application Architecture (Google I/O ’19)](https://www.youtube.com/watch?v=k-A2VfuUROg&feature=youtu.be&t=960)
 
 ## Intermediate
