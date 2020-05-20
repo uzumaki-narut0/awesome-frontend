@@ -25,6 +25,7 @@
 ### Articles
 
 * [Module/NoModule Pattern](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
+* [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [Myntra’s PWA Architecture](https://medium.com/@nvkudva/myntras-pwa-architecture-1226670042af)
 * [Higher Order Components](https://reactjs.org/docs/higher-order-components.html)
 * [Efficiently load third-party JavaScript](https://web.dev/efficiently-load-third-party-javascript/)
