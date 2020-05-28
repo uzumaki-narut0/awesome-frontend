@@ -34,3 +34,4 @@
 * [Javascript: The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
 * [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 * [Web Vitals](https://web.dev/vitals/)
+* [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
