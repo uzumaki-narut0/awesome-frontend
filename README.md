@@ -13,6 +13,7 @@
 * [Enable Brotli Compression in Webpack with Fallback to Gzip](https://medium.com/groww-engineering/enable-brotli-compression-in-webpack-with-fallback-to-gzip-397a57cf9fc6)
 * [CSS at Scale: LinkedIn’s New Open Source Projects Take on Stylesheet Performance](https://engineering.linkedin.com/blog/2018/04/css-at-scale--linkedins-new-open-source-projects-take-on-stylesh)
 * [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+* [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 
 ### Videos
 
