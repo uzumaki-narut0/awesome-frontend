@@ -36,3 +36,4 @@
 * [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
 * [Web Vitals](https://web.dev/vitals/)
 * [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+* [Surefire DOM Element Insertion](https://www.paulirish.com/2011/surefire-dom-element-insertion/)
