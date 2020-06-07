@@ -26,14 +26,20 @@ Performance
 * [Parsing JavaScript in zero* time](https://www.youtube.com/watch?time_continue=5&v=D1UJgiG4_NI&feature=emb_logo)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos)
 
+Architecture and Design patterns
+--------------------------
+
+* [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+* [Myntra’s PWA Architecture](https://medium.com/@nvkudva/myntras-pwa-architecture-1226670042af)
+
+
 Concepts, Guides and Documentations
 ------------------
 
+* [(Video)What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [Module/NoModule Pattern](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
-* [Myntra’s PWA Architecture](https://medium.com/@nvkudva/myntras-pwa-architecture-1226670042af)
 * [Higher Order Components](https://reactjs.org/docs/higher-order-components.html)
-* [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 * [Making wheel scrolling fast by default](https://developers.google.com/web/updates/2019/02/scrolling-intervention)
 * [Javascript: The core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
 * [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
