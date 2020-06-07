@@ -1,5 +1,5 @@
 # Awesome Frontend
-Curated list of all frontend awesomness. :rocket: 
+:information_source: Curated list of all frontend awesomness. :rocket: 
 
 Performance
 -----------------------
@@ -26,9 +26,8 @@ Performance
 * [Parsing JavaScript in zero* time](https://www.youtube.com/watch?time_continue=5&v=D1UJgiG4_NI&feature=emb_logo)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos)
 
-## Intermediate
-
-### Articles
+Concepts, Guides and Documentations
+------------------
 
 * [Module/NoModule Pattern](https://jakearchibald.com/2017/es-modules-in-browsers/#nomodule-for-backwards-compatibility)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
