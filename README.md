@@ -46,3 +46,10 @@ Concepts, Guides and Documentations
 * [Web Vitals](https://web.dev/vitals/)
 * [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 * [Surefire DOM Element Insertion](https://www.paulirish.com/2011/surefire-dom-element-insertion/)
+
+:pencil: :technologist:
+-----------------------------
+* [Ilya Grigorik](https://www.igvita.com/)
+* [Addy Osmani](https://addyosmani.com/)
+* [Dmitry Soshnikov](http://dmitrysoshnikov.com/)
+* [Jake Archibald](https://jakearchibald.com/)
