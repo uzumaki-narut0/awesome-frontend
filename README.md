@@ -1,4 +1,5 @@
 # Awesome Frontend
+Curated list of all frontend awesomness. :rocket: 
 
 Performance
 -----------------------
